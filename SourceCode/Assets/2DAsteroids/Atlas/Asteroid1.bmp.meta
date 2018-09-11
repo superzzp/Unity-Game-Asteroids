@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: 27e6cc8eca8c940beb0cbae3c9802f32
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asteroid_00033
+    21300002: asteroid_00032
+    21300004: asteroid_00008
+    21300006: asteroid_00007
+    21300008: asteroid_00006
+    21300010: asteroid_00031
+    21300012: asteroid_00034
+    21300014: asteroid_00009
+    21300016: asteroid_00005
+    21300018: asteroid_00030
+    21300020: asteroid_00035
+    21300022: asteroid_00010
+    21300024: asteroid_00036
+    21300026: asteroid_00029
+    21300028: asteroid_00004
+    21300030: asteroid_00011
+    21300032: asteroid_00003
+    21300034: asteroid_00028
+    21300036: asteroid_00022
+    21300038: asteroid_00019
+    21300040: asteroid_00037
+    21300042: asteroid_00020
+    21300044: asteroid_00021
+    21300046: asteroid_00018
+    21300048: asteroid_00014
+    21300050: asteroid_00024
+    21300052: asteroid_00023
+    21300054: asteroid_00026
+    21300056: asteroid_00017
+    21300058: asteroid_00013
+    21300060: asteroid_00025
+    21300062: asteroid_00016
+    21300064: asteroid_00012
+    21300066: asteroid_00027
+    21300068: asteroid_00015
+    21300070: asteroid_00039
+    21300072: asteroid_00040
+    21300074: asteroid_00000
+    21300076: asteroid_00038
+    21300078: asteroid_00002
+    21300080: asteroid_00001
+    21300082: asteroid_00049
+    21300084: asteroid_00041
+    21300086: asteroid_00042
+    21300088: asteroid_00043
+    21300090: asteroid_00045
+    21300092: asteroid_00044
+    21300094: asteroid_00048
+    21300096: asteroid_00047
+    21300098: asteroid_00046
+    21300100: explosion _00007
+    21300102: explosion _00011
+    21300104: explosion _00009
+    21300106: explosion _00006
+    21300108: explosion _00008
+    21300110: explosion _00010
+    21300112: explosion _00005
+    21300114: explosion _00012
+    21300116: explosion _00004
+    21300118: explosion _00003
+    21300120: explosion _00002
+    21300122: explosion _00001
+    21300124: explosion _00000
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosion _00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 254
+        height: 256
+      alignment: 9
+      pivot: {x: .503937006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00011
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 254
+        height: 256
+      alignment: 9
+      pivot: {x: .503937006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 254
+        height: 256
+      alignment: 9
+      pivot: {x: .503937006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00006
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 249
+        height: 256
+      alignment: 9
+      pivot: {x: .493975908, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 249
+        height: 256
+      alignment: 9
+      pivot: {x: .493975908, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00010
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 259
+        width: 254
+        height: 256
+      alignment: 9
+      pivot: {x: .503937006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00005
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1
+        width: 238
+        height: 256
+      alignment: 9
+      pivot: {x: .470588237, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 775
+        width: 254
+        height: 179
+      alignment: 9
+      pivot: {x: .503937006, y: .446927369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00004
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 259
+        width: 228
+        height: 247
+      alignment: 9
+      pivot: {x: .447368413, y: .481781363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00003
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1
+        width: 214
+        height: 228
+      alignment: 9
+      pivot: {x: .411214948, y: .442982465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00033
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 517
+        width: 224
+        height: 199
+      alignment: 9
+      pivot: {x: .477678567, y: .502512574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 956
+        width: 224
+        height: 201
+      alignment: 9
+      pivot: {x: .433035702, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00032
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 259
+        width: 224
+        height: 199
+      alignment: 9
+      pivot: {x: .477678567, y: .502512574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00007
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 508
+        width: 224
+        height: 201
+      alignment: 9
+      pivot: {x: .433035702, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00034
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1
+        width: 222
+        height: 199
+      alignment: 9
+      pivot: {x: .477477491, y: .502512574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00031
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 231
+        width: 222
+        height: 201
+      alignment: 9
+      pivot: {x: .472972959, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00006
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 718
+        width: 222
+        height: 201
+      alignment: 9
+      pivot: {x: .432432443, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00009
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 956
+        width: 221
+        height: 201
+      alignment: 9
+      pivot: {x: .434389144, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00030
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 460
+        width: 218
+        height: 201
+      alignment: 9
+      pivot: {x: .472477078, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00005
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1
+        width: 218
+        height: 199
+      alignment: 9
+      pivot: {x: .431192666, y: .502512574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00035
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 434
+        width: 217
+        height: 198
+      alignment: 9
+      pivot: {x: .474654377, y: .50505048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00010
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 711
+        width: 216
+        height: 202
+      alignment: 9
+      pivot: {x: .435185194, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1159
+        width: 212
+        height: 198
+      alignment: 9
+      pivot: {x: .471698105, y: .50505048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00004
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 921
+        width: 212
+        height: 199
+      alignment: 9
+      pivot: {x: .433962256, y: .502512574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00029
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 663
+        width: 212
+        height: 201
+      alignment: 9
+      pivot: {x: .466981143, y: .50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00011
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 202
+        width: 210
+        height: 203
+      alignment: 9
+      pivot: {x: .438095242, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00003
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1
+        width: 206
+        height: 199
+      alignment: 9
+      pivot: {x: .436893195, y: .502512574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00028
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 634
+        width: 205
+        height: 202
+      alignment: 9
+      pivot: {x: .458536595, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00019
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 434
+        width: 188
+        height: 204
+      alignment: 9
+      pivot: {x: .462765962, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00037
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1159
+        width: 204
+        height: 197
+      alignment: 9
+      pivot: {x: .465686262, y: .502538085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1359
+        width: 193
+        height: 204
+      alignment: 9
+      pivot: {x: .430051804, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00020
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 915
+        width: 189
+        height: 204
+      alignment: 9
+      pivot: {x: .444444448, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00018
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1122
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: .46875, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00021
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 202
+        width: 188
+        height: 204
+      alignment: 9
+      pivot: {x: .425531924, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00024
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 838
+        width: 199
+        height: 203
+      alignment: 9
+      pivot: {x: .437185943, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00023
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 640
+        width: 196
+        height: 203
+      alignment: 9
+      pivot: {x: .433673471, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00013
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1358
+        width: 200
+        height: 203
+      alignment: 9
+      pivot: {x: .444999993, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1565
+        width: 196
+        height: 203
+      alignment: 9
+      pivot: {x: .464285702, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00026
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1121
+        width: 200
+        height: 203
+      alignment: 9
+      pivot: {x: .449999988, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00014
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1328
+        width: 200
+        height: 203
+      alignment: 9
+      pivot: {x: .449999988, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00015
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 408
+        width: 200
+        height: 203
+      alignment: 9
+      pivot: {x: .455000013, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00027
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 202
+        width: 199
+        height: 203
+      alignment: 9
+      pivot: {x: .452261299, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00025
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 845
+        width: 200
+        height: 203
+      alignment: 9
+      pivot: {x: .444999993, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00016
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 640
+        width: 198
+        height: 203
+      alignment: 9
+      pivot: {x: .459595948, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00012
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1563
+        width: 203
+        height: 203
+      alignment: 9
+      pivot: {x: .443349749, y: .502463043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1770
+        width: 201
+        height: 198
+      alignment: 9
+      pivot: {x: .442786068, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00039
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1326
+        width: 201
+        height: 198
+      alignment: 9
+      pivot: {x: .447761208, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00001
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1533
+        width: 200
+        height: 198
+      alignment: 9
+      pivot: {x: .449999988, y: .50505048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00000
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 408
+        width: 200
+        height: 198
+      alignment: 9
+      pivot: {x: .455000013, y: .50505048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00038
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 202
+        width: 200
+        height: 197
+      alignment: 9
+      pivot: {x: .449999988, y: .502538085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00002
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1043
+        width: 200
+        height: 198
+      alignment: 9
+      pivot: {x: .444999993, y: .50505048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00041
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 613
+        width: 199
+        height: 198
+      alignment: 9
+      pivot: {x: .437185943, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00049
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 845
+        width: 199
+        height: 198
+      alignment: 9
+      pivot: {x: .457286417, y: .50505048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00043
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1768
+        width: 192
+        height: 198
+      alignment: 9
+      pivot: {x: .432291657, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00042
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1526
+        width: 196
+        height: 198
+      alignment: 9
+      pivot: {x: .433673471, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00044
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1326
+        width: 187
+        height: 197
+      alignment: 9
+      pivot: {x: .42780748, y: .502538085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00048
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1733
+        width: 197
+        height: 196
+      alignment: 9
+      pivot: {x: .461928934, y: .505102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00045
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 407
+        width: 186
+        height: 197
+      alignment: 9
+      pivot: {x: .446236551, y: .502538085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00047
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1050
+        width: 193
+        height: 196
+      alignment: 9
+      pivot: {x: .461139888, y: .505102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: asteroid_00046
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 608
+        width: 188
+        height: 196
+      alignment: 9
+      pivot: {x: .462765962, y: .505102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00002
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 813
+        width: 182
+        height: 177
+      alignment: 9
+      pivot: {x: .456043959, y: .474576265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00001
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1
+        width: 113
+        height: 96
+      alignment: 9
+      pivot: {x: .530973434, y: .53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion _00000
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 921
+        width: 65
+        height: 18
+      alignment: 9
+      pivot: {x: .676923096, y: .944444418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
