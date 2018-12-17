@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{F2108420-57E2-EF14-86C5-FCE8B9CC6895}</ProjectGuid>
+    <ProjectGuid>{66AD90E6-9838-7982-D791-09BD5236159F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -136,16 +136,16 @@
     <None Include="Assets\Resources\Light2D\Resources\Shaders\ObstacleTexturePostProcessor.shader" />
     <None Include="Assets\Resources\Light2D\Resources\Shaders\LightAuto.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/alexzhang/Desktop/Unity Projects/Asteroids-builds/Asteroids-V7.3-source-code/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/alexzhang/Desktop/Github/Unity-Game-Asteroids/SourceCode/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/alexzhang/Desktop/Unity Projects/Asteroids-builds/Asteroids-V7.3-source-code/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/alexzhang/Desktop/Github/Unity-Game-Asteroids/SourceCode/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/alexzhang/Desktop/Unity Projects/Asteroids-builds/Asteroids-V7.3-source-code/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/alexzhang/Desktop/Github/Unity-Game-Asteroids/SourceCode/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/alexzhang/Desktop/Unity Projects/Asteroids-builds/Asteroids-V7.3-source-code/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/alexzhang/Desktop/Github/Unity-Game-Asteroids/SourceCode/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

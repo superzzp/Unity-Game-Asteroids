@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{66AD90E6-9838-7982-D791-09BD5236159F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Timer.cs">
+    <Files>
+      <File FileName="Assets/scripts/AsteroidSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Asteroid.cs" Line="104" Column="20" />
+      <File FileName="../../../Unity Projects/Assignment-4-Materials/AudioManager.cs" Line="33" Column="25" />
+      <File FileName="../../../Unity Projects/Assignment-4-Materials/AudioClipName.cs" Line="1" Column="1" />
+      <File FileName="../../../Unity Projects/Assignment-4-Materials/GameAudioSource.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Timer.cs" Line="82" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

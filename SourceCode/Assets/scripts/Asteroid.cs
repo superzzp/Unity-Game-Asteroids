@@ -16,7 +16,7 @@ public class Asteroid : MonoBehaviour {
     //field used to store the explosion particle of asteroid
     [SerializeField]
     GameObject explosionParticle;
-
+    AudioSource aus;
     Vector3 currentScale;
 
     // specify what is in the gold, red and purple for readability, 
@@ -28,6 +28,7 @@ public class Asteroid : MonoBehaviour {
         //ore = Resources.Load<Sprite>("sprites/ore");
         //localScale: The scale of the transform relative to the parent. 
         currentScale = transform.localScale;
+        aus = GetComponent<AudioSource>();
     }
 
     public void Initialize(Direction direc, Vector3 location) {
@@ -38,6 +39,9 @@ public class Asteroid : MonoBehaviour {
         //set the initial position for the asteroid base on the location input
         //?why after adding GameObject, the transform does not work?
         transform.position = initialLocation;
+
+        //set the audio source of explosion
+
 
         //ramdomly select one of the three sprites;
         //comment out for updating the three 2.5D animation prefabs
@@ -97,6 +101,7 @@ public class Asteroid : MonoBehaviour {
 
     //use the explosionParticle to instantiate explosion effects for asteroid;
     void explode(){
+        aus.Play();
         GameObject exp = Instantiate(explosionParticle);
         exp.transform.position = gameObject.transform.position;
     }
